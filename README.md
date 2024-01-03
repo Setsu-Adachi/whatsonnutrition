@@ -25,8 +25,8 @@ The extensive database covers a wide range of foods, from fresh produce to packa
 
 Barcode Scanner for Easy Input:
 Save time and hassle with our barcode scanner feature. Effortlessly scan barcodes on packaged foods to instantly access their nutritional content.
-Meal Planning Made Simple:
 
+Meal Planning Made Simple:
 Plan your meals with confidence! WhatsOnNutrition assists you in creating well-balanced and nutritionally sound meal plans tailored to your dietary preferences.
 
 Educational Insights:
@@ -44,7 +44,7 @@ https://setsu-adachi.github.io/whatsonnutrition/
 I have referred to NHS Digital tutorial on how to work with the OpenWeather API. 
 [NHS Digital](https://)
 
-  ## License
+## License
 Distributed under the Mozila Public License, See LICENSE.txt for more info
 
 ## Contributing
