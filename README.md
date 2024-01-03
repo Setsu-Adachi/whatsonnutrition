@@ -5,9 +5,9 @@
 WhatsOn Nutrition is the ultimate nutrition app that empowers you to make informed and healthy food choices. Whether you're a fitness enthusiast, health-conscious individual, or just curious about what's on your plate, NutriDiscover is your go-to companion.
 
 
-https://setsu-adachi.github.io/5day-weather-forecast-dashboard/
+https://setsu-adachi.github.io/whatsonnutrition/
 
-![5days-weather-forecast](./assets/5days-weather-forecast-server-api-readme.png)
+![WhatsOnNutrition](./assets/whatsonnutrition.png)
 
 # # Key Features:
 
@@ -38,15 +38,14 @@ git clone
 https://github.com/Setsu-Adachi/whatsonnutrition
 
 ## Configuration
-https://setsu-adachi.github.io/5day-weather-forecast-dashboard/
+https://setsu-adachi.github.io/whatsonnutrition/
 
 ## Acknowledgement
-I have referred to a coding boot camp and Devression tutorial on how to work with the OpenWeather API. 
-[Full-Stack Blog on how to use API keys](https://coding-boot-camp.github.io/full-stack/apis/how-to-use-api-keys),
-[Build a Simple Weather App](https://www.youtube.com/playlist?list=PL7xMD2CrkhbLNspprTyKVtM94rMjzQBuo).
+I have referred to NHS Digital tutorial on how to work with the OpenWeather API. 
+[NHS Digital](https://)
 
   ## License
-Distributed under the MIT License, See LICENSE.txt for more info
+Distributed under the Mozila Public License, See LICENSE.txt for more info
 
 ## Contributing
 If you have any suggestions or improvements, feel free to open an issue or create a pull request. Contributions are welcome!
