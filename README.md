@@ -2,7 +2,7 @@
 
 
 # WhatsOnNutrition
-WhatsOn Nutrition is the ultimate nutrition app that empowers you to make informed and healthy food choices. Whether you're a fitness enthusiast, health-conscious individual, or just curious about what's on your plate, NutriDiscover is your go-to companion.
+WhatsOn Nutrition is the ultimate nutrition app that empowers you to make informed and healthy food choices. Whether you're a fitness enthusiast, health-conscious individual, or just curious about what's on your plate, WhatsOnNutrition is your go-to companion.
 
 
 https://setsu-adachi.github.io/whatsonnutrition/
@@ -12,7 +12,7 @@ https://setsu-adachi.github.io/whatsonnutrition/
 # # Key Features:
 
 Instant Nutritional Information:
-Simply scan the barcode or manually enter the name of any food item, and NutriDiscover provides instant access to comprehensive nutritional information.
+Simply scan the barcode or manually enter the name of any food item, and WhatsOnNutrition provides instant access to comprehensive nutritional information.
 
 Detailed Nutrient Breakdown:
 Dive deep into the details! Explore the breakdown of calories, macronutrients (carbs, proteins, fats), vitamins, minerals, and more for each food item.
